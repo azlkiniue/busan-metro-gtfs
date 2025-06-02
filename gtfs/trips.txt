@@ -1,0 +1,3834 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+1,WD,134_1_1_WD_2002,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2004,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2006,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2008,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2010,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2012,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2014,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2016,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2018,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2020,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2022,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2024,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2026,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2028,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2030,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2032,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2034,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2036,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2038,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2040,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2042,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2044,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2046,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2048,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2050,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2052,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2054,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2056,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2058,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2060,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2062,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2064,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2066,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2068,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2070,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2072,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2074,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2076,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2078,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2080,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2082,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2084,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2086,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2088,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2090,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2092,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2094,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2096,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2098,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2100,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2102,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2104,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2106,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2108,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2110,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2112,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2114,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2116,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2118,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2120,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2122,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2124,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2126,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2128,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2130,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2132,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2134,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2136,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2138,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2140,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2142,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2144,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2146,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2148,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2150,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2152,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2154,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2156,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2158,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2160,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2162,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2164,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2166,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2168,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2170,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2172,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2174,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2176,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2178,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2180,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2182,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2184,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2186,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2188,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2190,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2192,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2194,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2196,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2198,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2200,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2202,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2204,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2206,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2208,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2210,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2212,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2214,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2216,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2218,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2220,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2222,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2224,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2226,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2228,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2230,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2232,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2234,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2236,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2238,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2240,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2242,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2244,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2246,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2248,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2250,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2252,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2254,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2256,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2258,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2260,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2262,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2264,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2266,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2268,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2270,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2272,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2274,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2276,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2278,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2280,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2282,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2284,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2286,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2288,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2290,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2292,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2294,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2296,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2298,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2300,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2302,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2304,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2306,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2308,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2310,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2312,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2314,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2316,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2318,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2320,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2322,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2324,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2326,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2328,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2330,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2332,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2334,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2336,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_2338,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2002,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2004,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2006,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2008,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2010,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2012,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2014,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2016,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2018,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2020,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2022,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2024,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2026,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2028,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2030,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2032,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2034,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2036,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2038,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2040,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2042,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2044,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2046,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2048,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2050,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2052,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2054,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2056,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2058,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2060,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2062,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2064,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2066,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2068,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2070,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2072,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2074,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2076,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2078,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2080,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2082,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2084,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2086,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2088,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2090,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2092,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2094,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2096,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2098,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2100,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2102,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2104,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2106,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2108,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2110,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2112,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2114,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2116,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2118,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2120,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2122,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2124,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2126,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2128,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2130,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2132,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2134,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2136,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2138,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2140,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2142,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2144,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2146,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2148,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2150,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2152,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2154,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2156,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2158,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2160,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2162,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2164,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2166,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2168,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2170,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2172,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2174,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2176,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2178,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2180,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2182,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2184,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2186,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2188,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2190,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2192,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2194,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2196,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2198,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2200,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2202,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2204,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2206,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2208,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2210,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2212,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2214,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2216,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2218,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2220,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2222,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2224,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2226,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2228,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2230,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2232,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2234,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2236,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2238,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2240,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2242,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2244,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2246,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2248,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2250,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2252,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2254,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2256,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2258,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2260,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2262,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2264,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2266,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2268,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2270,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2272,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2274,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2276,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2278,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2280,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2282,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2284,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2286,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2288,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2290,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2292,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2294,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2296,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2298,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2300,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2302,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2304,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2306,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2308,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2310,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2312,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2314,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2316,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2318,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2320,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2322,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2324,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2326,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2328,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_2330,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2002,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2004,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2006,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2008,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2010,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2012,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2014,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2016,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2018,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2020,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2022,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2024,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2026,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2028,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2030,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2032,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2034,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2036,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2038,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2040,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2042,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2044,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2046,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2048,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2050,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2052,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2054,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2056,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2058,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2060,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2062,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2064,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2066,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2068,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2070,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2072,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2074,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2076,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2078,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2080,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2082,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2084,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2086,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2088,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2090,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2092,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2094,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2096,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2098,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2100,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2102,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2104,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2106,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2108,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2110,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2112,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2114,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2116,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2118,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2120,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2122,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2124,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2126,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2128,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2130,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2132,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2134,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2136,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2138,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2140,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2142,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2144,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2146,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2148,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2150,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2152,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2154,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2156,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2158,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2160,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2162,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2164,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2166,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2168,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2170,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2172,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2174,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2176,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2178,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2180,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2182,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2184,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2186,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2188,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2190,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2192,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2194,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2196,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2198,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2200,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2202,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2204,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2206,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2208,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2210,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2212,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2214,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2216,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2218,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2220,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2222,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2224,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2226,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2228,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2230,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2232,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2234,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2236,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2238,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2240,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2242,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2244,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2246,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2248,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2250,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2252,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2254,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2256,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2258,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2260,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2262,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2264,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2266,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2268,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2270,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2272,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2274,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2276,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2278,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2280,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2282,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2284,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2286,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2288,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2290,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2292,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2294,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2296,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2298,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2300,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2302,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2304,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2306,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2308,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2310,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2312,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2314,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2316,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_2318,Nopo,1,1_1_shp
+1,WD,95_1_0_WD_7901,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7903,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7905,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7907,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7909,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7911,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1001,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1003,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1005,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7913,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1007,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7915,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1009,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7917,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1011,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7919,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1013,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7921,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1015,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7923,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1017,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7925,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1019,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_7927,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1021,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1023,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1025,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1027,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1029,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1031,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1033,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1035,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1037,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1039,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1041,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1043,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1045,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1047,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1049,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1051,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1053,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1055,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1057,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1059,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1061,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1063,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1065,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1067,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1069,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1071,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1073,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1075,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1077,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1079,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1081,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1083,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1085,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1087,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1089,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1091,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1093,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1095,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1097,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1099,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1101,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1103,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1105,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1107,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1109,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1111,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1113,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1115,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1117,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1119,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1121,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1123,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1125,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1127,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1129,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1131,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1133,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1135,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1137,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1139,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1141,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1143,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1145,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1147,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1149,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1151,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1153,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1155,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1157,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1159,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1161,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1163,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1165,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1167,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1169,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1171,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1173,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1175,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1177,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1179,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1181,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1183,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1185,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1187,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1189,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1191,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1193,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1195,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1197,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1199,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1201,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1203,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1205,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1207,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1209,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1211,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1213,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1215,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1217,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1219,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1221,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1223,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1225,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1227,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1229,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1231,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1233,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1235,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1237,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1239,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1241,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1243,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1245,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1247,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1249,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1251,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1253,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1255,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1257,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1259,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1261,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1263,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1265,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1267,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1269,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1271,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1273,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1275,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1277,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1279,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1281,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1283,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1285,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1287,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1289,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1291,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1293,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1295,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1297,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1299,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1301,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1303,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1305,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1307,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1309,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1311,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1313,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1315,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1317,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1319,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1321,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1323,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1325,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1327,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1329,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1331,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1333,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1335,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1337,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1339,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1341,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1343,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1345,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1347,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1349,Dadaepo Beach,0,1_0_shp
+1,WD,95_1_0_WD_1351,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7901,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7903,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7905,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7907,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7909,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7911,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1001,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1003,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1005,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7913,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1007,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7915,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1009,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7917,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1011,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7919,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1013,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7921,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1015,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7923,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1017,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_7925,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1019,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1021,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1023,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1025,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1027,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1029,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1031,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1033,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1035,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1037,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1039,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1041,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1043,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1045,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1047,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1049,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1051,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1053,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1055,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1057,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1059,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1061,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1063,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1065,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1067,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1069,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1071,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1073,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1075,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1077,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1079,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1081,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1083,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1085,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1087,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1089,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1091,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1093,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1095,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1097,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1099,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1101,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1103,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1105,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1107,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1109,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1111,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1113,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1115,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1117,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1119,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1121,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1123,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1125,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1127,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1129,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1131,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1133,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1135,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1137,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1139,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1141,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1143,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1145,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1147,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1149,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1151,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1153,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1155,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1157,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1159,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1161,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1163,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1165,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1167,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1169,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1171,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1173,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1175,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1177,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1179,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1181,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1183,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1185,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1187,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1189,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1191,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1193,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1195,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1197,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1199,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1201,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1203,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1205,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1207,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1209,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1211,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1213,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1215,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1217,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1219,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1221,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1223,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1225,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1227,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1229,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1231,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1233,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1235,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1237,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1239,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1241,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1243,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1245,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1247,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1249,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1251,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1253,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1255,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1257,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1259,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1261,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1263,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1265,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1267,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1269,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1271,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1273,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1275,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1277,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1279,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1281,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1283,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1285,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1287,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1289,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1291,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1293,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1295,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1297,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1299,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1301,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1303,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1305,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1307,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1309,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1311,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1313,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1315,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1317,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1319,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1321,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1323,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1325,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1327,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1329,Dadaepo Beach,0,1_0_shp
+1,SAT,95_1_0_SAT_1331,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7901,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7903,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7905,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7907,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7909,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7911,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1001,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1003,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1005,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7913,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1007,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7915,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1009,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7917,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1011,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7919,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1013,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7921,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1015,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_7923,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1017,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1019,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1021,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1023,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1025,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1027,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1029,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1031,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1033,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1035,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1037,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1039,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1041,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1043,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1045,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1047,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1049,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1051,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1053,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1055,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1057,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1059,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1061,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1063,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1065,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1067,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1069,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1071,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1073,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1075,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1077,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1079,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1081,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1083,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1085,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1087,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1089,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1091,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1093,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1095,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1097,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1099,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1101,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1103,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1105,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1107,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1109,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1111,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1113,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1115,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1117,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1119,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1121,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1123,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1125,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1127,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1129,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1131,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1133,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1135,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1137,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1139,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1141,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1143,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1145,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1147,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1149,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1151,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1153,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1155,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1157,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1159,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1161,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1163,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1165,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1167,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1169,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1171,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1173,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1175,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1177,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1179,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1181,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1183,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1185,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1187,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1189,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1191,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1193,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1195,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1197,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1199,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1201,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1203,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1205,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1207,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1209,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1211,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1213,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1215,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1217,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1219,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1221,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1223,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1225,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1227,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1229,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1231,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1233,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1235,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1237,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1239,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1241,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1243,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1245,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1247,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1249,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1251,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1253,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1255,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1257,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1259,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1261,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1263,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1265,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1267,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1269,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1271,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1273,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1275,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1277,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1279,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1281,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1283,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1285,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1287,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1289,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1291,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1293,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1295,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1297,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1299,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1301,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1303,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1305,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1307,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1309,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1311,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1313,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1315,Dadaepo Beach,0,1_0_shp
+1,SUN,95_1_0_SUN_1317,Dadaepo Beach,0,1_0_shp
+1,WD,134_1_1_WD_8902,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8904,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8906,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8908,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8910,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8912,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8914,Nopo,1,1_1_shp
+1,WD,134_1_1_WD_8916,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_8902,Nopo,1,1_1_shp
+1,SAT,134_1_1_SAT_8904,Nopo,1,1_1_shp
+1,SUN,134_1_1_SUN_8902,Nopo,1,1_1_shp
+1,WD,101_1_0_WD_7931,Sinpyeong,0,1_0_shp
+1,SAT,101_1_0_SAT_7931,Sinpyeong,0,1_0_shp
+1,SUN,101_1_0_SUN_7931,Sinpyeong,0,1_0_shp
+2,WD,243_2_1_WD_2006,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2008,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2010,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2012,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2014,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2016,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2018,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2020,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2022,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2024,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2026,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2028,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2030,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2032,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2034,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2036,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2038,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2040,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2042,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2044,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2046,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2048,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2050,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2052,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2054,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2056,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2058,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2060,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2062,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2064,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2066,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2068,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2070,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2072,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2074,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2076,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2078,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2080,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2082,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2084,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2086,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2088,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2090,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2092,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2094,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2096,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2098,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2100,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2102,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2104,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2106,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2108,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2110,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2112,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2114,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2116,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2118,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2120,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2122,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2124,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2126,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2128,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2130,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2132,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2134,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2136,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2138,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2140,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2142,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2144,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2146,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2148,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2150,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2152,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2154,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2156,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2158,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2160,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2162,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2164,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2166,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2168,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2170,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2172,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2174,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2176,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2178,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2180,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2182,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2184,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2186,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2188,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2190,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2192,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2194,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2196,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2198,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2200,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2202,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2204,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2206,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2208,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2210,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2212,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2214,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2216,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2218,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2220,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2222,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2224,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2226,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2228,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2230,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2232,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2234,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2236,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2238,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2240,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2242,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2244,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2246,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2248,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2250,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2252,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2254,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2256,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2258,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2260,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2262,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2264,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2266,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2268,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2270,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2272,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2274,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2276,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2278,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2280,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2282,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2284,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2286,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2288,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2290,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2292,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2294,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2296,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2298,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2300,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2302,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2304,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2306,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2308,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2310,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2312,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2314,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2316,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2318,Hopo,1,2_1_shp
+2,WD,243_2_1_WD_2320,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2322,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2324,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2326,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2328,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2330,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2332,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2334,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2336,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2452,Yangsan,1,2_1_shp
+2,WD,239_2_1_WD_2454,Hopo,1,2_1_shp
+2,WD,209_2_1_WD_2456,Gwangan,1,2_1_shp
+2,SAT,243_2_1_SAT_2006,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2008,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2010,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2012,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2014,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2016,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2018,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2020,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2022,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2024,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2026,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2028,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2030,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2032,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2034,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2036,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2038,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2040,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2042,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2044,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2046,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2048,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2050,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2052,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2054,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2056,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2058,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2060,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2062,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2064,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2066,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2068,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2070,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2072,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2074,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2076,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2078,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2080,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2082,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2084,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2086,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2088,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2090,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2092,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2094,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2096,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2098,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2100,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2102,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2104,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2106,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2108,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2110,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2112,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2114,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2116,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2118,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2120,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2122,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2124,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2126,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2128,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2130,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2132,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2134,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2136,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2138,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2140,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2142,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2144,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2146,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2148,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2150,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2152,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2154,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2156,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2158,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2160,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2162,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2164,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2166,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2168,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2170,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2172,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2174,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2176,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2178,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2180,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2182,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2184,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2186,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2188,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2190,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2192,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2194,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2196,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2198,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2200,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2202,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2204,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2206,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2208,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2210,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2212,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2214,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2216,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2218,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2220,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2222,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2224,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2226,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2228,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2230,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2232,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2234,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2236,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2238,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2240,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2242,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2244,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2246,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2248,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2250,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2252,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2254,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2256,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2258,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2260,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2262,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2264,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2266,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2268,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2270,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2272,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2274,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2276,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2278,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2280,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2282,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2284,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2286,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2288,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2290,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2292,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2294,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2296,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2298,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2300,Hopo,1,2_1_shp
+2,SAT,243_2_1_SAT_2302,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2304,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2306,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2308,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2310,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2312,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2314,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2316,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2318,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2452,Yangsan,1,2_1_shp
+2,SAT,239_2_1_SAT_2454,Hopo,1,2_1_shp
+2,SAT,209_2_1_SAT_2456,Gwangan,1,2_1_shp
+2,SUN,243_2_1_SUN_2006,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2008,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2010,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2012,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2014,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2016,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2018,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2020,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2022,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2024,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2026,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2028,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2030,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2032,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2034,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2036,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2038,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2040,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2042,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2044,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2046,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2048,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2050,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2052,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2054,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2056,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2058,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2060,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2062,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2064,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2066,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2068,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2070,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2072,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2074,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2076,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2078,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2080,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2082,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2084,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2086,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2088,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2090,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2092,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2094,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2096,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2098,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2100,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2102,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2104,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2106,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2108,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2110,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2112,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2114,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2116,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2118,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2120,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2122,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2124,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2126,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2128,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2130,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2132,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2134,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2136,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2138,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2140,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2142,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2144,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2146,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2148,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2150,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2152,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2154,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2156,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2158,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2160,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2162,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2164,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2166,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2168,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2170,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2172,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2174,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2176,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2178,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2180,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2182,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2184,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2186,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2188,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2190,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2192,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2194,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2196,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2198,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2200,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2202,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2204,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2206,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2208,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2210,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2212,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2214,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2216,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2218,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2220,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2222,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2224,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2226,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2228,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2230,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2232,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2234,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2236,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2238,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2240,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2242,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2244,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2246,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2248,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2250,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2252,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2254,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2256,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2258,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2260,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2262,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2264,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2266,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2268,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2270,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2272,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2274,Hopo,1,2_1_shp
+2,SUN,243_2_1_SUN_2276,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2278,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2280,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2282,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2284,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2286,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2288,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2290,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2292,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2452,Yangsan,1,2_1_shp
+2,SUN,239_2_1_SUN_2454,Hopo,1,2_1_shp
+2,SUN,209_2_1_SUN_2456,Gwangan,1,2_1_shp
+2,WD,201_2_0_WD_2001,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2003,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2005,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2007,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2009,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2011,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2013,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2015,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2017,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2019,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2021,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2023,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2025,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2027,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2029,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2031,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2033,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2035,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2037,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2039,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2041,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2043,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2045,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2047,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2049,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2051,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2053,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2055,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2057,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2059,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2061,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2063,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2065,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2067,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2069,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2071,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2073,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2075,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2077,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2079,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2081,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2083,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2085,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2087,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2089,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2091,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2093,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2095,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2097,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2099,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2101,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2103,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2105,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2107,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2109,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2111,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2113,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2115,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2117,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2119,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2121,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2123,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2125,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2127,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2129,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2131,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2133,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2135,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2137,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2139,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2141,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2143,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2145,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2147,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2149,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2151,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2153,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2155,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2157,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2159,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2161,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2163,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2165,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2167,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2169,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2171,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2173,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2175,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2177,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2179,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2181,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2183,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2185,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2187,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2189,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2191,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2193,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2195,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2197,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2199,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2201,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2203,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2205,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2207,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2209,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2211,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2213,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2215,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2217,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2219,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2221,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2223,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2225,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2227,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2229,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2231,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2233,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2235,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2237,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2239,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2241,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2243,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2245,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2247,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2249,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2251,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2253,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2255,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2257,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2259,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2261,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2263,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2265,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2267,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2269,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2271,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2273,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2275,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2277,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2279,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2281,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2283,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2285,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2287,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2289,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2291,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2293,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2295,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2297,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2299,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2301,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2303,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2305,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2307,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2309,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2311,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2313,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2315,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2317,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2319,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2321,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2323,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2325,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2327,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2329,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2331,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2333,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2335,Jangsan,0,2_0_shp
+2,WD,201_2_0_WD_2451,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2001,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2003,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2005,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2007,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2009,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2011,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2013,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2015,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2017,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2019,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2021,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2023,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2025,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2027,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2029,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2031,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2033,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2035,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2037,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2039,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2041,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2043,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2045,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2047,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2049,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2051,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2053,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2055,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2057,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2059,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2061,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2063,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2065,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2067,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2069,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2071,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2073,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2075,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2077,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2079,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2081,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2083,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2085,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2087,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2089,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2091,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2093,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2095,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2097,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2099,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2101,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2103,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2105,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2107,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2109,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2111,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2113,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2115,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2117,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2119,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2121,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2123,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2125,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2127,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2129,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2131,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2133,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2135,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2137,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2139,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2141,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2143,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2145,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2147,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2149,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2151,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2153,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2155,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2157,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2159,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2161,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2163,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2165,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2167,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2169,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2171,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2173,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2175,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2177,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2179,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2181,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2183,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2185,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2187,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2189,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2191,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2193,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2195,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2197,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2199,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2201,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2203,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2205,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2207,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2209,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2211,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2213,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2215,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2217,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2219,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2221,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2223,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2225,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2227,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2229,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2231,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2233,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2235,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2237,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2239,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2241,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2243,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2245,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2247,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2249,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2251,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2253,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2255,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2257,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2259,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2261,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2263,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2265,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2267,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2269,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2271,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2273,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2275,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2277,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2279,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2281,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2283,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2285,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2287,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2289,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2291,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2293,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2295,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2297,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2299,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2301,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2303,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2305,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2307,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2309,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2311,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2313,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2315,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2317,Jangsan,0,2_0_shp
+2,SAT,201_2_0_SAT_2451,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2001,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2003,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2005,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2007,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2009,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2011,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2013,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2015,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2017,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2019,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2021,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2023,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2025,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2027,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2029,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2031,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2033,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2035,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2037,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2039,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2041,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2043,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2045,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2047,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2049,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2051,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2053,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2055,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2057,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2059,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2061,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2063,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2065,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2067,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2069,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2071,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2073,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2075,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2077,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2079,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2081,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2083,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2085,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2087,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2089,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2091,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2093,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2095,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2097,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2099,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2101,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2103,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2105,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2107,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2109,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2111,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2113,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2115,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2117,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2119,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2121,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2123,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2125,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2127,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2129,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2131,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2133,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2135,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2137,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2139,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2141,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2143,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2145,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2147,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2149,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2151,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2153,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2155,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2157,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2159,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2161,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2163,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2165,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2167,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2169,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2171,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2173,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2175,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2177,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2179,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2181,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2183,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2185,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2187,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2189,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2191,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2193,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2195,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2197,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2199,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2201,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2203,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2205,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2207,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2209,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2211,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2213,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2215,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2217,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2219,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2221,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2223,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2225,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2227,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2229,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2231,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2233,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2235,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2237,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2239,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2241,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2243,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2245,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2247,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2249,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2251,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2253,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2255,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2257,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2259,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2261,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2263,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2265,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2267,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2269,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2271,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2273,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2275,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2277,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2279,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2281,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2283,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2285,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2287,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2289,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2291,Jangsan,0,2_0_shp
+2,SUN,201_2_0_SUN_2451,Jangsan,0,2_0_shp
+2,WD,243_2_1_WD_2004,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2004,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2004,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2002,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2002,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2002,Yangsan,1,2_1_shp
+2,WD,218_2_0_WD_2453,Jeonpo,0,2_0_shp
+2,SAT,218_2_0_SAT_2453,Jeonpo,0,2_0_shp
+2,SUN,218_2_0_SUN_2453,Jeonpo,0,2_0_shp
+2,WD,243_2_1_WD_2602,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2604,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2606,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2608,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2610,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2612,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2614,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2616,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2618,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2620,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2622,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2624,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2626,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2628,Yangsan,1,2_1_shp
+2,WD,243_2_1_WD_2630,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2602,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2604,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2606,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2608,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2610,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2612,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2614,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2616,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2618,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2620,Yangsan,1,2_1_shp
+2,SAT,243_2_1_SAT_2622,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2602,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2604,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2606,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2608,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2610,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2612,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2614,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2616,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2618,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2620,Yangsan,1,2_1_shp
+2,SUN,243_2_1_SUN_2622,Yangsan,1,2_1_shp
+3,WD,317_3_1_WD_3002,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3004,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3006,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3008,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3010,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3012,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3014,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3016,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3018,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3020,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3022,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3024,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3026,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3028,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3030,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3032,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3034,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3036,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3038,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3040,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3042,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3044,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3046,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3048,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3050,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3052,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3054,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3056,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3058,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3060,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3062,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3064,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3066,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3068,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3070,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3072,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3074,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3076,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3078,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3080,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3082,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3084,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3086,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3088,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3090,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3092,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3094,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3096,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3098,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3100,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3102,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3104,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3106,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3108,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3110,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3112,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3114,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3116,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3118,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3120,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3122,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3124,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3126,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3128,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3130,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3132,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3134,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3136,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3138,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3140,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3142,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3144,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3146,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3148,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3150,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3152,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3154,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3156,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3158,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3160,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3162,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3164,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3166,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3168,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3170,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3172,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3174,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3176,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3178,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3180,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3182,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3184,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3186,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3188,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3190,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3192,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3194,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3196,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3198,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3200,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3202,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3204,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3206,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3208,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3210,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3212,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3214,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3216,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3218,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3220,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3222,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3224,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3226,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3228,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3230,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3232,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3234,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3236,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3238,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3240,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3242,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3244,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3246,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3248,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3250,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3252,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3254,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3256,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3258,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3260,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3262,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3264,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3266,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3268,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3270,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3272,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3274,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3276,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3278,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3280,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3282,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3284,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3286,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3288,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3290,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3292,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3294,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3296,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3298,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3300,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3302,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3304,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3306,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3308,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3310,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3312,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3314,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3316,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3318,Daejeo,1,3_1_shp
+3,WD,317_3_1_WD_3320,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3002,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3004,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3006,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3008,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3010,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3012,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3014,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3016,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3018,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3020,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3022,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3024,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3026,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3028,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3030,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3032,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3034,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3036,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3038,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3040,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3042,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3044,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3046,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3048,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3050,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3052,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3054,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3056,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3058,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3060,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3062,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3064,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3066,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3068,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3070,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3072,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3074,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3076,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3078,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3080,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3082,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3084,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3086,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3088,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3090,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3092,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3094,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3096,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3098,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3100,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3102,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3104,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3106,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3108,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3110,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3112,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3114,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3116,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3118,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3120,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3122,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3124,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3126,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3128,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3130,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3132,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3134,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3136,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3138,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3140,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3142,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3144,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3146,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3148,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3150,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3152,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3154,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3156,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3158,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3160,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3162,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3164,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3166,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3168,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3170,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3172,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3174,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3176,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3178,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3180,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3182,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3184,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3186,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3188,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3190,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3192,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3194,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3196,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3198,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3200,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3202,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3204,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3206,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3208,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3210,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3212,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3214,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3216,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3218,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3220,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3222,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3224,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3226,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3228,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3230,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3232,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3234,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3236,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3238,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3240,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3242,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3244,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3246,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3248,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3250,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3252,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3254,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3256,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3258,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3260,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3262,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3264,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3266,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3268,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3270,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3272,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3274,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3276,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3278,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3280,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3282,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3284,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3286,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3288,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3290,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3292,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3294,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3296,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3298,Daejeo,1,3_1_shp
+3,SAT,317_3_1_SAT_3300,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3002,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3004,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3006,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3008,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3010,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3012,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3014,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3016,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3018,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3020,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3022,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3024,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3026,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3028,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3030,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3032,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3034,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3036,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3038,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3040,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3042,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3044,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3046,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3048,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3050,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3052,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3054,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3056,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3058,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3060,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3062,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3064,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3066,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3068,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3070,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3072,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3074,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3076,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3078,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3080,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3082,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3084,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3086,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3088,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3090,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3092,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3094,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3096,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3098,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3100,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3102,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3104,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3106,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3108,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3110,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3112,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3114,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3116,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3118,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3120,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3122,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3124,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3126,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3128,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3130,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3132,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3134,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3136,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3138,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3140,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3142,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3144,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3146,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3148,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3150,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3152,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3154,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3156,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3158,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3160,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3162,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3164,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3166,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3168,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3170,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3172,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3174,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3176,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3178,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3180,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3182,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3184,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3186,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3188,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3190,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3192,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3194,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3196,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3198,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3200,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3202,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3204,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3206,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3208,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3210,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3212,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3214,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3216,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3218,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3220,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3222,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3224,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3226,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3228,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3230,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3232,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3234,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3236,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3238,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3240,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3242,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3244,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3246,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3248,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3250,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3252,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3254,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3256,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3258,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3260,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3262,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3264,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3266,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3268,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3270,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3272,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3274,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3276,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3278,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3280,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3282,Daejeo,1,3_1_shp
+3,SUN,317_3_1_SUN_3284,Daejeo,1,3_1_shp
+3,WD,301_3_0_WD_3001,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3003,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3005,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3007,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3009,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3011,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3013,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3015,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3017,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3019,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3021,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3023,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3025,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3027,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3029,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3031,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3033,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3035,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3037,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3039,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3041,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3043,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3045,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3047,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3049,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3051,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3053,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3055,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3057,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3059,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3061,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3063,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3065,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3067,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3069,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3071,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3073,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3075,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3077,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3079,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3081,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3083,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3085,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3087,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3089,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3091,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3093,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3095,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3097,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3099,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3101,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3103,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3105,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3107,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3109,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3111,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3113,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3115,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3117,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3119,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3121,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3123,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3125,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3127,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3129,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3131,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3133,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3135,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3137,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3139,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3141,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3143,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3145,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3147,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3149,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3151,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3153,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3155,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3157,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3159,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3161,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3163,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3165,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3167,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3169,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3171,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3173,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3175,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3177,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3179,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3181,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3183,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3185,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3187,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3189,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3191,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3193,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3195,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3197,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3199,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3201,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3203,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3205,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3207,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3209,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3211,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3213,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3215,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3217,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3219,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3221,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3223,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3225,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3227,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3229,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3231,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3233,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3235,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3237,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3239,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3241,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3243,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3245,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3247,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3249,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3251,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3253,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3255,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3257,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3259,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3261,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3263,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3265,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3267,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3269,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3271,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3273,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3275,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3277,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3279,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3281,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3283,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3285,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3287,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3289,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3291,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3293,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3295,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3297,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3299,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3301,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3303,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3305,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3307,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3309,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3311,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3313,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3315,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3317,Suyeong,0,3_0_shp
+3,WD,301_3_0_WD_3319,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3001,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3003,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3005,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3007,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3009,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3011,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3013,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3015,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3017,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3019,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3021,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3023,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3025,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3027,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3029,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3031,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3033,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3035,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3037,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3039,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3041,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3043,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3045,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3047,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3049,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3051,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3053,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3055,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3057,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3059,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3061,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3063,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3065,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3067,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3069,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3071,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3073,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3075,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3077,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3079,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3081,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3083,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3085,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3087,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3089,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3091,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3093,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3095,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3097,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3099,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3101,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3103,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3105,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3107,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3109,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3111,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3113,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3115,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3117,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3119,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3121,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3123,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3125,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3127,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3129,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3131,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3133,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3135,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3137,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3139,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3141,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3143,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3145,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3147,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3149,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3151,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3153,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3155,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3157,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3159,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3161,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3163,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3165,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3167,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3169,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3171,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3173,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3175,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3177,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3179,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3181,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3183,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3185,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3187,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3189,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3191,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3193,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3195,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3197,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3199,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3201,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3203,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3205,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3207,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3209,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3211,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3213,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3215,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3217,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3219,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3221,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3223,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3225,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3227,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3229,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3231,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3233,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3235,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3237,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3239,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3241,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3243,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3245,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3247,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3249,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3251,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3253,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3255,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3257,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3259,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3261,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3263,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3265,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3267,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3269,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3271,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3273,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3275,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3277,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3279,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3281,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3283,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3285,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3287,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3289,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3291,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3293,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3295,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3297,Suyeong,0,3_0_shp
+3,SAT,301_3_0_SAT_3299,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3001,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3003,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3005,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3007,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3009,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3011,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3013,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3015,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3017,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3019,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3021,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3023,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3025,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3027,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3029,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3031,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3033,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3035,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3037,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3039,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3041,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3043,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3045,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3047,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3049,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3051,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3053,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3055,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3057,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3059,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3061,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3063,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3065,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3067,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3069,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3071,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3073,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3075,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3077,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3079,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3081,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3083,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3085,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3087,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3089,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3091,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3093,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3095,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3097,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3099,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3101,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3103,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3105,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3107,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3109,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3111,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3113,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3115,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3117,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3119,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3121,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3123,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3125,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3127,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3129,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3131,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3133,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3135,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3137,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3139,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3141,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3143,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3145,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3147,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3149,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3151,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3153,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3155,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3157,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3159,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3161,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3163,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3165,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3167,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3169,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3171,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3173,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3175,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3177,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3179,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3181,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3183,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3185,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3187,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3189,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3191,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3193,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3195,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3197,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3199,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3201,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3203,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3205,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3207,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3209,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3211,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3213,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3215,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3217,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3219,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3221,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3223,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3225,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3227,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3229,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3231,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3233,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3235,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3237,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3239,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3241,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3243,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3245,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3247,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3249,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3251,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3253,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3255,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3257,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3259,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3261,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3263,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3265,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3267,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3269,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3271,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3273,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3275,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3277,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3279,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3281,Suyeong,0,3_0_shp
+3,SUN,301_3_0_SUN_3283,Suyeong,0,3_0_shp
+4,WD,414_4_1_WD_4002,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4004,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4006,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4008,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4010,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4012,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4014,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4016,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4018,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4020,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4022,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4024,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4026,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4028,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4030,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4032,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4034,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4036,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4038,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4040,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4042,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4044,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4046,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4048,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4050,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4052,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4054,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4056,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4058,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4060,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4062,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4064,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4066,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4068,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4070,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4072,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4074,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4076,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4078,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4080,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4082,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4084,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4086,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4088,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4090,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4092,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4094,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4096,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4098,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4100,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4102,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4104,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4106,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4108,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4110,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4112,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4114,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4116,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4118,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4120,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4122,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4124,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4126,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4128,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4130,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4132,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4134,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4136,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4138,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4140,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4142,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4144,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4146,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4148,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4150,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4152,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4154,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4156,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4158,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4160,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4162,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4164,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4166,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4168,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4170,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4172,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4174,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4176,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4178,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4180,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4182,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4184,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4186,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4188,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4190,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4192,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4194,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4196,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4198,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4200,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4202,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4204,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4206,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4208,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4210,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4212,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4214,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4216,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4218,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4220,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4222,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4224,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4226,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4228,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4230,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4232,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4234,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4236,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4238,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4240,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4242,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4244,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4246,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4248,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4250,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4252,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4254,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4256,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4258,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4260,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4262,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4264,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4266,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4268,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4270,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4272,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4274,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4276,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4278,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4280,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4282,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4284,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4286,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4288,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4290,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4292,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4294,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4296,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4298,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4300,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4302,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4304,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4306,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4308,Anpyeong,1,4_1_shp
+4,WD,414_4_1_WD_4310,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4002,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4004,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4006,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4008,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4010,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4012,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4014,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4016,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4018,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4020,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4022,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4024,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4026,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4028,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4030,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4032,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4034,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4036,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4038,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4040,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4042,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4044,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4046,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4048,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4050,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4052,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4054,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4056,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4058,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4060,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4062,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4064,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4066,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4068,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4070,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4072,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4074,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4076,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4078,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4080,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4082,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4084,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4086,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4088,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4090,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4092,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4094,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4096,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4098,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4100,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4102,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4104,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4106,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4108,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4110,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4112,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4114,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4116,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4118,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4120,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4122,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4124,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4126,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4128,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4130,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4132,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4134,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4136,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4138,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4140,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4142,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4144,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4146,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4148,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4150,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4152,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4154,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4156,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4158,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4160,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4162,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4164,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4166,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4168,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4170,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4172,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4174,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4176,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4178,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4180,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4182,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4184,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4186,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4188,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4190,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4192,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4194,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4196,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4198,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4200,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4202,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4204,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4206,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4208,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4210,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4212,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4214,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4216,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4218,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4220,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4222,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4224,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4226,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4228,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4230,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4232,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4234,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4236,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4238,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4240,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4242,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4244,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4246,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4248,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4250,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4252,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4254,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4256,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4258,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4260,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4262,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4264,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4266,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4268,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4270,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4272,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4274,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4276,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4278,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4280,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4282,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4284,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4286,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4288,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4290,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4292,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4294,Anpyeong,1,4_1_shp
+4,SAT,414_4_1_SAT_4296,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4002,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4004,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4006,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4008,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4010,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4012,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4014,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4016,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4018,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4020,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4022,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4024,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4026,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4028,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4030,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4032,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4034,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4036,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4038,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4040,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4042,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4044,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4046,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4048,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4050,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4052,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4054,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4056,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4058,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4060,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4062,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4064,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4066,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4068,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4070,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4072,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4074,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4076,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4078,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4080,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4082,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4084,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4086,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4088,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4090,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4092,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4094,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4096,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4098,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4100,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4102,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4104,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4106,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4108,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4110,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4112,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4114,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4116,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4118,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4120,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4122,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4124,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4126,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4128,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4130,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4132,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4134,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4136,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4138,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4140,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4142,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4144,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4146,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4148,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4150,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4152,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4154,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4156,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4158,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4160,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4162,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4164,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4166,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4168,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4170,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4172,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4174,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4176,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4178,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4180,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4182,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4184,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4186,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4188,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4190,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4192,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4194,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4196,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4198,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4200,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4202,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4204,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4206,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4208,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4210,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4212,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4214,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4216,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4218,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4220,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4222,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4224,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4226,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4228,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4230,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4232,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4234,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4236,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4238,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4240,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4242,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4244,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4246,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4248,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4250,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4252,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4254,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4256,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4258,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4260,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4262,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4264,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4266,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4268,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4270,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4272,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4274,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4276,Anpyeong,1,4_1_shp
+4,SUN,414_4_1_SUN_4278,Anpyeong,1,4_1_shp
+4,WD,401_4_0_WD_4001,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4003,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4005,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4007,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4009,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4011,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4013,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4015,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4017,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4019,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4021,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4023,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4025,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4027,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4029,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4031,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4033,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4035,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4037,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4039,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4041,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4043,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4045,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4047,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4049,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4051,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4053,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4055,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4057,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4059,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4061,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4063,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4065,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4067,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4069,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4071,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4073,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4075,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4077,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4079,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4081,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4083,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4085,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4087,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4089,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4091,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4093,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4095,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4097,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4099,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4101,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4103,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4105,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4107,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4109,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4111,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4113,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4115,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4117,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4119,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4121,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4123,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4125,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4127,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4129,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4131,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4133,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4135,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4137,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4139,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4141,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4143,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4145,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4147,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4149,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4151,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4153,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4155,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4157,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4159,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4161,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4163,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4165,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4167,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4169,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4171,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4173,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4175,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4177,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4179,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4181,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4183,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4185,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4187,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4189,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4191,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4193,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4195,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4197,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4199,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4201,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4203,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4205,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4207,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4209,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4211,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4213,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4215,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4217,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4219,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4221,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4223,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4225,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4227,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4229,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4231,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4233,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4235,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4237,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4239,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4241,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4243,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4245,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4247,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4249,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4251,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4253,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4255,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4257,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4259,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4261,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4263,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4265,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4267,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4269,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4271,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4273,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4275,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4277,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4279,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4281,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4283,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4285,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4287,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4289,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4291,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4293,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4295,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4297,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4299,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4301,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4303,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4305,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4307,Minam,0,4_0_shp
+4,WD,401_4_0_WD_4309,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4001,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4003,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4005,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4007,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4009,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4011,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4013,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4015,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4017,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4019,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4021,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4023,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4025,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4027,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4029,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4031,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4033,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4035,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4037,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4039,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4041,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4043,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4045,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4047,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4049,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4051,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4053,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4055,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4057,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4059,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4061,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4063,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4065,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4067,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4069,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4071,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4073,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4075,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4077,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4079,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4081,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4083,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4085,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4087,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4089,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4091,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4093,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4095,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4097,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4099,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4101,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4103,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4105,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4107,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4109,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4111,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4113,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4115,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4117,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4119,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4121,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4123,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4125,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4127,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4129,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4131,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4133,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4135,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4137,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4139,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4141,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4143,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4145,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4147,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4149,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4151,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4153,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4155,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4157,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4159,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4161,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4163,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4165,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4167,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4169,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4171,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4173,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4175,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4177,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4179,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4181,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4183,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4185,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4187,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4189,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4191,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4193,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4195,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4197,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4199,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4201,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4203,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4205,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4207,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4209,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4211,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4213,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4215,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4217,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4219,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4221,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4223,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4225,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4227,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4229,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4231,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4233,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4235,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4237,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4239,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4241,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4243,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4245,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4247,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4249,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4251,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4253,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4255,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4257,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4259,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4261,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4263,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4265,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4267,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4269,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4271,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4273,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4275,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4277,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4279,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4281,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4283,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4285,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4287,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4289,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4291,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4293,Minam,0,4_0_shp
+4,SAT,401_4_0_SAT_4295,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4001,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4003,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4005,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4007,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4009,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4011,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4013,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4015,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4017,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4019,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4021,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4023,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4025,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4027,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4029,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4031,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4033,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4035,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4037,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4039,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4041,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4043,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4045,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4047,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4049,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4051,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4053,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4055,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4057,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4059,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4061,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4063,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4065,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4067,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4069,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4071,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4073,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4075,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4077,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4079,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4081,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4083,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4085,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4087,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4089,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4091,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4093,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4095,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4097,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4099,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4101,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4103,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4105,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4107,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4109,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4111,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4113,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4115,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4117,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4119,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4121,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4123,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4125,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4127,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4129,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4131,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4133,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4135,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4137,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4139,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4141,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4143,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4145,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4147,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4149,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4151,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4153,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4155,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4157,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4159,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4161,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4163,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4165,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4167,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4169,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4171,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4173,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4175,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4177,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4179,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4181,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4183,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4185,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4187,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4189,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4191,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4193,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4195,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4197,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4199,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4201,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4203,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4205,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4207,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4209,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4211,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4213,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4215,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4217,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4219,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4221,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4223,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4225,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4227,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4229,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4231,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4233,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4235,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4237,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4239,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4241,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4243,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4245,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4247,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4249,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4251,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4253,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4255,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4257,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4259,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4261,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4263,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4265,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4267,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4269,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4271,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4273,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4275,Minam,0,4_0_shp
+4,SUN,401_4_0_SUN_4277,Minam,0,4_0_shp

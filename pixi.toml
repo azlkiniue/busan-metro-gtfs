@@ -1,0 +1,14 @@
+[workspace]
+authors = ["Ahmada Yusril <yusril@pusan.ac.kr>"]
+channels = ["conda-forge"]
+name = "busan-metro-gtfs"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.3,<3.14"
+requests = ">=2.32.3,<3"
+lxml = ">=5.4.0,<6"
+tqdm = ">=4.67.1,<5"

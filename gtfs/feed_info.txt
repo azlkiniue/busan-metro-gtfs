@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_version
+Ahmada Yusril,https://github.com/azlkiniue,eng,yusril@pusan.ac.kr,https://github.com/azlkiniue/busan-metro-gtfs,20060101,20380118,1
