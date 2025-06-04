@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" href="css/pico.min.css">
+    <title>Busan Metro GTFS Feed</title>
+  </head>
+  <body>
+    <main class="container">
+      <h1>Busan Metro GTFS Feed</h1>
+      <p>
+        This project provides a <strong>General Transit Feed Specification (GTFS)</strong> dataset for the subway metro system in <strong>Busan, South Korea</strong>.
+      </p>
+      <section>
+        <h2>About the Project</h2>
+        <p>
+          The GTFS feed contains comprehensive transit data for the Busan Metro, including routes, stops, schedules, and other essential information. It is designed to support transit applications, journey planners, and research into public transportation in Busan.
+        </p>
+      </section>
+      <section>
+        <h2>Features</h2>
+        <ul>
+          <li>Detailed subway routes and schedules</li>
+          <li>Detailed stop locations and station information</li>
+          <li>Open data format compatible with most transit apps</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Usage</h2>
+        <p>
+          Download the GTFS feed and integrate it into your transit application or analysis tool. The data is provided in the standard GTFS format.
+        </p>
+        <p>
+          <a href="./gtfs.zip" role="button">Download GTFS Feed</a>
+        </p>
+      </section>
+      <section>
+        <h2>Preview Data</h2>
+        <p>You can see the data <a href="./timetables/">here</a>.</p>
+        <!-- <iframe src="./timetables/" frameborder="0" style="width: 100%;"></iframe> -->
+      </section>
+      <section>
+        <h2>Learn More</h2>
+        <ul>
+          <li><a href="https://gtfs.org/" target="_blank">About GTFS</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Busan_Metro" target="_blank">Busan Metro on Wikipedia</a></li>
+        </ul>
+      </section>
+      <footer>
+        <small>Project by Ahmada Yusril</small>
+      </footer>
+    </main>
+    <script>
+      // Check if the url have trailing slash, redirect to the same url with the trailing slash
+      if (window.location.pathname.slice(-1) !== '/') {
+        window.location.href = window.location.pathname + '/';
+      }
+    </script>
+  </body>
+</html>
