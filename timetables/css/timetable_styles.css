@@ -305,6 +305,7 @@ a:hover {
 }
 
 .timetable-page .timetable .table-container {
+  height: 80vh;
   overflow-x: scroll;
   margin: 20px 0;
 }
@@ -328,6 +329,11 @@ a:hover {
   text-indent: 0;
   border-color: inherit;
   border-collapse: collapse;
+}
+
+.timetable-page .timetable thead {
+  position: sticky;
+  top: 0;
 }
 
 .timetable-page .timetable thead tr {
