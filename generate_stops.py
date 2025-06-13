@@ -35,7 +35,7 @@ with open("route.geojson", "r", encoding="utf-8") as f:
             stop_lat = geometry["coordinates"][1]
             stop_lon = geometry["coordinates"][0]
             location_type = 0
-            wheelchair_boarding = 0
+            wheelchair_boarding = 1
             # write the row
             writer.writerow(
                 [

@@ -4,7 +4,7 @@ import os
 import glob
 
 with ZipFile("gtfs.zip", "w", compression=ZIP_DEFLATED, compresslevel=6) as zipf:
-    # Get all .txt filesn in gtfs directory
+    # Get all .txt files in gtfs directory
     files = glob.glob("gtfs/*.txt")
     for file in files:
         # Add file to the zip file
