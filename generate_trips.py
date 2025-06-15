@@ -16,6 +16,7 @@ header = [
     "trip_headsign",
     "direction_id",
     "shape_id",
+    "wheelchair_accessible",
 ]
 
 with open("route.geojson", "r", encoding="utf-8") as f:
@@ -63,6 +64,7 @@ with open("route.geojson", "r", encoding="utf-8") as f:
                 trip_headsign = station_lookup[int(endcode)]
                 direction_id = updown
                 shape_id = f"{line}_{updown}_shp"
+                wheelchair_accessible = 1
                 # write the row
                 writer.writerow(
                     [
@@ -72,6 +74,7 @@ with open("route.geojson", "r", encoding="utf-8") as f:
                         trip_headsign,
                         direction_id,
                         shape_id,
+                        wheelchair_accessible,
                     ]
                 )
     print(f"Generated trips.txt with {len(unique_schedules)} trips.")
