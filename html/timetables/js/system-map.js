@@ -113,7 +113,7 @@ function getBounds(geojson) {
   return bounds;
 }
 
-function createSystemMap() {
+function createSystemMap(noGeocoder = false) {
   const defaultRouteColor = '#000000';
   const lineLayout = {
     'line-join': 'round',
@@ -142,7 +142,9 @@ function createSystemMap() {
   map.addControl(new maplibregl.NavigationControl());
   map.addControl(new maplibregl.FullscreenControl());
 
-  addGeocoder(map, bounds);
+  if (!noGeocoder) {
+    addGeocoder(map, bounds);
+  }
 
   map.on('load', () => {
     fitMapToBounds(map, bounds);
