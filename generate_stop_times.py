@@ -7,6 +7,12 @@ service_lookup = {
     "3": "SUN",
 }
 
+# second of the arrival and departure time within the minute of the timetable, default is :15 and :45
+# Busan-Gimhae LRT uses :20 and :40 to leave more running time between stations one minute apart
+second_lookup = {
+    "BGL": ("20", "40"),
+}
+
 # csv header for stop_times.txt
 # trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign
 header = [
@@ -21,18 +27,22 @@ header = [
 with open("route.geojson", "r", encoding="utf-8") as f:
     data = json.load(f)
     features = data["features"]
-    # delete first four features
-    features = features[4:]
+    # only keep the station features
+    features = [feature for feature in features if feature["geometry"]["type"] == "Point"]
 
     # lookup the name of station by id in features
     station_lookup = {
-        feature["id"]: feature["properties"]["name"] for feature in features
+        str(feature["id"]): feature["properties"]["name"] for feature in features
     }
 
     # open timetable.csv for reading
     with open("timetable.csv", "r", encoding="utf-8") as f_in:
         reader = csv.DictReader(f_in)
         schedules = list(reader)
+        # also read the timetables of Busan-Gimhae LRT and Donghae Line
+        for timetable in ["timetable_bgl.csv", "timetable_donghae.csv"]:
+            with open(timetable, "r", encoding="utf-8") as f_extra:
+                schedules.extend(csv.DictReader(f_extra))
         # select distinct by scode, line, day, updown, endcode and count the number of each unique schedule
         unique_schedules = {}
         previous_row = None
@@ -62,7 +72,8 @@ with open("route.geojson", "r", encoding="utf-8") as f:
             for (line, day, updown, endcode, trainno), rows in unique_schedules.items():
                 service_id = service_lookup[str(day)]
                 trip_id = f"{endcode}_{line}_{updown}_{service_id}_{trainno}"
-                stop_headsign = station_lookup[int(endcode)]
+                stop_headsign = station_lookup[endcode]
+                arrival_second, departure_second = second_lookup.get(line, ("15", "45"))
                 previous_time = ''
                 for sequence, row in enumerate(rows):
                     current_time = f"{row['hour']}{row['time']}"
@@ -71,8 +82,12 @@ with open("route.geojson", "r", encoding="utf-8") as f:
                         continue
                     previous_time = current_time
 
-                    arrival_time = f"{row['hour']}:{row['time']}:15"
-                    departure_time = f"{row['hour']}:{row['time']}:45"
+                    arrival_time = f"{row['hour']}:{row['time']}:{arrival_second}"
+                    departure_time = f"{row['hour']}:{row['time']}:{departure_second}"
+                    # use the exact time if the timetable has it (Donghae Line)
+                    if row.get("arrival") and row.get("departure"):
+                        arrival_time = row["arrival"]
+                        departure_time = row["departure"]
                     stop_id = row["scode"]
                     # write the row
                     writer.writerow(

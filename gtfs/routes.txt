@@ -3,3 +3,5 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 2,Humetro,2,Line 2,1,50B848,FFFFFF
 3,Humetro,3,Line 3,1,CE8A2B,FFFFFF
 4,Humetro,4,Line 4,1,426AB3,FFFFFF
+BGL,BGL,BGL,Busan-Gimhae LRT,1,8652A1,FFFFFF
+Donghae,Korail,Donghae,Donghae Line,1,0054A6,FFFFFF

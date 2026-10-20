@@ -17,6 +17,11 @@ transfers_list = [
   ["208", "301"], # Suyeong
   ["233", "313"], # Deokcheon
   ["309", "401"], # Minam
+  ["227", "901"], # Sasang (Busan-Gimhae LRT)
+  ["317", "907"], # Daejeo (Busan-Gimhae LRT)
+  ["124", "K113"], # Busan Nat'l Univ. of Edu. (Donghae Line)
+  ["306", "K112"], # Geoje (Donghae Line)
+  ["205", "K119"], # BEXCO (Donghae Line)
 ]
 
 with open("transfers.txt", "w", newline="", encoding="utf-8") as f:

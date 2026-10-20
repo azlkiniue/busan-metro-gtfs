@@ -22,18 +22,22 @@ header = [
 with open("route.geojson", "r", encoding="utf-8") as f:
     data = json.load(f)
     features = data["features"]
-    # delete first four features
-    features = features[4:]
+    # only keep the station features
+    features = [feature for feature in features if feature["geometry"]["type"] == "Point"]
 
     # lookup the name of station by id in features
     station_lookup = {
-        feature["id"]: feature["properties"]["name"] for feature in features
+        str(feature["id"]): feature["properties"]["name"] for feature in features
     }
 
     # open timetable.csv for reading
     with open("timetable.csv", "r", encoding="utf-8") as f_in:
         reader = csv.DictReader(f_in)
         schedules = list(reader)
+        # also read the timetables of Busan-Gimhae LRT and Donghae Line
+        for timetable in ["timetable_bgl.csv", "timetable_donghae.csv"]:
+            with open(timetable, "r", encoding="utf-8") as f_extra:
+                schedules.extend(csv.DictReader(f_extra))
         # select distinct by scode, line, day, updown, endcode and count the number of each unique schedule
         unique_schedules = {}
         for row in schedules:
@@ -61,7 +65,7 @@ with open("route.geojson", "r", encoding="utf-8") as f:
                 route_id = line
                 service_id = service_lookup[str(day)]
                 trip_id = f"{endcode}_{line}_{updown}_{service_id}_{trainno}"
-                trip_headsign = station_lookup[int(endcode)]
+                trip_headsign = station_lookup[endcode]
                 direction_id = updown
                 shape_id = f"{line}_{updown}_shp"
                 wheelchair_accessible = 1

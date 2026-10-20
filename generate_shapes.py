@@ -13,8 +13,8 @@ header = [
 with open("route.geojson", "r", encoding="utf-8") as f:
     data = json.load(f)
     features = data["features"]
-    # only keep first four features
-    features = features[:4]
+    # only keep the line features
+    features = [feature for feature in features if feature["geometry"]["type"] == "LineString"]
 
     with open("shapes.txt", "w", newline="", encoding="utf-8") as f_out:
         writer = csv.writer(f_out)

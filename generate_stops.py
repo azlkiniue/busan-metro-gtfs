@@ -16,8 +16,8 @@ header = [
 with open("route.geojson", "r", encoding="utf-8") as f:
     data = json.load(f)
     features = data["features"]
-    # delete first four features
-    features = features[4:]
+    # only keep the station features
+    features = [feature for feature in features if feature["geometry"]["type"] == "Point"]
 
     # open stops.txt for writing
     with open("stops.txt", "w", newline="", encoding="utf-8") as f_out:
@@ -30,7 +30,8 @@ with open("route.geojson", "r", encoding="utf-8") as f:
             geometry = feature["geometry"]
             # extract the required fields
             stop_id = feature["id"]
-            stop_code = feature["id"]
+            # use the station number on the signage if it is different from the id
+            stop_code = properties.get("ref", feature["id"])
             stop_name = properties["name"]
             stop_lat = geometry["coordinates"][1]
             stop_lon = geometry["coordinates"][0]

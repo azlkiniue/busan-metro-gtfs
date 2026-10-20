@@ -14,8 +14,8 @@ with open('route.geojson', 'r', encoding='utf-8') as f:
     #   ]
     # }
     features = data['features']
-    # sort the features by 'id' in ascending order
-    features.sort(key=lambda x: x['id'])
+    # sort the features by 'id' in ascending order (numeric ids first, then text ids)
+    features.sort(key=lambda x: (isinstance(x['id'], str), x['id']))
     # write the sorted data back to the file
     with open('route.geojson', 'w', encoding='utf-8') as f_out:
         json.dump(data, f_out, ensure_ascii=False, indent=4)
