@@ -1,10 +1,11 @@
-Feed Version: 1
-GTFS-to-HTML Version: 2.10.13
-Date Generated: 2025-06-03T06:43:33.277Z
-Timetable Page Count: 24
-Timetable Count: 24
-Calendar Service ID Count: 24
-Route Count: 24
-Trip Count: 3833
-Stop Count: 684
-Source: /tmp/180d76434ee93c21810760b944abb0db/gtfs.zip
+Agencies: Busan Transportation Corporation, Busan-Gimhae Light Rail Transit Operation Co., Ltd., Korea Railroad Corporation
+Feed Version: 2
+GTFS-to-HTML Version: 2.13.5
+Date Generated: 2026-10-20T02:11:14.525Z
+Timetable Page Count: 36
+Timetable Count: 36
+Calendar Service ID Count: 36
+Route Count: 36
+Trip Count: 5246
+Stop Count: 1009
+Source: gtfs.zip
